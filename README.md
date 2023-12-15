@@ -92,5 +92,6 @@ Full subractor
 ![image](https://github.com/prasanna-765/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150009505/ec76b16b-58b3-495d-b32f-006704ffbb8a)
 
 
-## Result:
+Result:
+
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
